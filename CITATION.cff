@@ -1,6 +1,6 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
-title: "ITOR Source Code"
+title: "Connected and Automated Vehicles Scheduling at a Reservation-based Intersection using Dynamic Programming with Dominance Pruning"
 version: ITOR.1
 authors:
   - family-names: "Ma"
