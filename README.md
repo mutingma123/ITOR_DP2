@@ -1,4 +1,6 @@
-# Traffic Intersection Optimization with Dynamic Programming ([![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17724051.svg)](https://doi.org/10.5281/zenodo.17724051))
+# Traffic Intersection Optimization with Dynamic Programming
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17724051.svg)](https://doi.org/10.5281/zenodo.17724051)
 
 This project implements traffic intersection optimization algorithms comparing dynamic programming approaches with state-of-the-art optimization methods using Gurobi.
 
