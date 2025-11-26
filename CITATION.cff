@@ -1,0 +1,9 @@
+cff-version: 1.0
+message: "Please cite this software as follows."
+title: "ITOR Source Code"
+version: "ITOR.1"
+authors:
+  - family-names: Ma
+    given-names: Muting (Don)
+doi: 10.5281/zenodo.17724051
+date-released: 2025-11-26
